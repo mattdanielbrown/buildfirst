@@ -15,7 +15,7 @@
   "dependencies": {
     "mustache": "^0.8.1",
     "backbone": "^1.1.2",
-    "jquery": "^2.1.0"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "browserify": "~3.46.1",
