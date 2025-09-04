@@ -13,6 +13,6 @@
     "url": "git://github.com/buildfirst/buildfirst.git"
   },
   "dependencies": {
-    "winston": "~0.7.2"
+    "winston": "~0.8.0"
   }
 }
