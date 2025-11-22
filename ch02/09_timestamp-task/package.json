@@ -13,6 +13,6 @@
     "url": "git://github.com/buildfirst/buildfirst.git"
   },
   "devDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": "~1.2.0"
   }
 }
